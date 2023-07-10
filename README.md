@@ -15,7 +15,7 @@
 
 - improvement
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bbe0e2c7-4e82-47f1-a6ef-32b2b705898f/Untitled.png)
+    [![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bbe0e2c7-4e82-47f1-a6ef-32b2b705898f/Untitled.png)](https://file.notion.so/f/s/bbe0e2c7-4e82-47f1-a6ef-32b2b705898f/Untitled.png?id=691f10bd-2b57-4264-b20b-37325f6f8eda&table=block&spaceId=686aa7f9-b24d-4f38-b71b-5bd28ff9cd96&expirationTimestamp=1689120000000&signature=lu5oQjoKTERrM4tv-3DIYSlkF8qHsFxCCFGsi7ukPkM&downloadName=Untitled.png)
     
 - control diagram
 
