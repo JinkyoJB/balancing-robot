@@ -14,18 +14,17 @@
     
 
 - improvement
-    
-    [![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bbe0e2c7-4e82-47f1-a6ef-32b2b705898f/Untitled.png)](https://file.notion.so/f/s/bbe0e2c7-4e82-47f1-a6ef-32b2b705898f/Untitled.png?id=691f10bd-2b57-4264-b20b-37325f6f8eda&table=block&spaceId=686aa7f9-b24d-4f38-b71b-5bd28ff9cd96&expirationTimestamp=1689120000000&signature=lu5oQjoKTERrM4tv-3DIYSlkF8qHsFxCCFGsi7ukPkM&downloadName=Untitled.png)
+ ![image](https://github.com/JinkyoJB/balancing-robot/assets/85150616/ece4c714-00d9-4ddd-9267-85eda90c98cd)
+
     
 - control diagram
+![image](https://github.com/JinkyoJB/balancing-robot/assets/85150616/2a706cb8-08f9-45cd-83e8-6864dc0aacbd)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69ed52b0-177e-477d-9ea3-87a2717e4e26/Untitled.png)
 
 - 관련 cumstom code
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f39ef765-5758-4606-b104-2351360390d9/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89c33ce6-e965-42cf-adb6-b31466f4842e/Untitled.png)
+![image](https://github.com/JinkyoJB/balancing-robot/assets/85150616/1b5b26ba-b954-496f-95e2-67b1b7995269)
+![image](https://github.com/JinkyoJB/balancing-robot/assets/85150616/2850c498-5913-4584-9c3e-254f83788fa5)
 
 - 관련 영상
-  https://youtu.be/4g02npqN3SM
+[![Watch the video](https://img.youtube.com/vi/4g02npqN3SM/maxresdefault.jpg)](https://youtu.be/4g02npqN3SM)
+
